@@ -1,1 +1,1 @@
-# yolo-ncist
+# yolo-fire-detection
